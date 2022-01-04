@@ -1,2 +1,3 @@
-# introducao-a-criacao-de-websites-com-html5-e-css3
-Curso sobre a história do HTML5 e do CSS3 
+# Introducao a Criacao de Websites com HTML5 e CSS3
+
+Repositório criado para o Curso sobre HTML5 e CSS3 
